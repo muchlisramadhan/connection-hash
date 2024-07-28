@@ -1,0 +1,24 @@
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: Error: Invalid table name (forward)
+RuntimeCmd: Error: Invalid table name (ecmp_group)
+RuntimeCmd: Error: Invalid table name (ecmp_nhop)
+RuntimeCmd: Error: Invalid table name (send_frame)
+RuntimeCmd: Error: Invalid table name (set_status1)
+RuntimeCmd: Error: Invalid table name (set_status2)
+RuntimeCmd: Error: Invalid table name (set_status3)
+RuntimeCmd: Error: Invalid table name (set_status4)
+RuntimeCmd: Error: Invalid table name (forward)
+RuntimeCmd: Error: Invalid table name (forward)
+RuntimeCmd: Error: Invalid table name (forward)
+RuntimeCmd: Error: Invalid table name (forward)
+RuntimeCmd: Error: Invalid table name (forward)
+RuntimeCmd: Error: Invalid table name (forward)
+RuntimeCmd: Error: Invalid table name (ecmp_group)
+RuntimeCmd: Error: Invalid table name (ecmp_nhop)
+RuntimeCmd: Error: Invalid table name (ecmp_nhop)
+RuntimeCmd: Error: Invalid table name (ecmp_nhop)
+RuntimeCmd: Error: Invalid table name (ecmp_nhop)
+RuntimeCmd: Error: Invalid table name (send_frame)
+RuntimeCmd: 

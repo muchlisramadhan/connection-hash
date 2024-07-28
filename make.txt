@@ -1,0 +1,2 @@
+sudo mn -c
+sudo python3 test_topo.py --json connection_hash.json
